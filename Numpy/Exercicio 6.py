@@ -1,7 +1,7 @@
 import pandas
 import numpy as np
 
-# Como não teve um contexto para criação do exemplo, criei uma tabela de vizualização de quilometragem por veículo bem simples
+# Como não teve um contexto para criação do exemplo, criei uma tabela de visualização de quilometragem por veículo bem simples
 
 dA = {
     "placa": [
