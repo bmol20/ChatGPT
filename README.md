@@ -11,4 +11,4 @@ Em 2024, solicitei ao ChatGPT para que criasse um cronograma de estudos iniciais
 
 ## 💡 Arquivos
 
-Cada programa foi desenvolvido no intuito de solucionar algum determinado exercício que foi exemplificado pela IA
+Cada programa foi desenvolvido no intuito de solucionar algum determinado exercício que foi exemplificado pela IA, a maioria possuí o exercicio descrito na forma de comentário dentro da programação.
